@@ -1,7 +1,7 @@
 # Quote App
 
 <p align="center">
-  <img src="assets/icons/appicon.png" width="200" height="200">
+  <img src="assets/icons/appicon.png" alt="Quote app logo" width="200" height="200">
 </p>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
